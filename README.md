@@ -87,23 +87,25 @@ Dataset Source: IBM HR Analytics Employee Attrition Dataset (Kaggle)
 - Retention risk identification
 
 📋 Project Workflow
-- Raw Dataset
+```
+Raw Dataset
       ↓
-- Excel Data Cleaning
+Excel Data Cleaning
       ↓
-- Feature Engineering
+Feature Engineering
       ↓
-- SQL Data Validation
+SQL Data Validation
       ↓
-- Power Query Transformation
+Power Query Transformation
       ↓
-- Data Modeling
+Data Modeling
       ↓
-- DAX Calculations
+DAX Calculations
       ↓
-- Interactive Dashboards
+Interactive Dashboards
       ↓
-- Business Insights
+Business Insights
+```
 
 ## 📊 Dashboard Pages
 
@@ -179,7 +181,8 @@ Provides insights into employee satisfaction, performance ratings, and work-life
 - Executive Reporting
 
 📁 Repository Structure
-```HR-Analytics-Employee-Attrition-Dashboard
+```
+HR-Analytics-Employee-Attrition-Dashboard
 │
 ├── Dataset
 ├── Excel
