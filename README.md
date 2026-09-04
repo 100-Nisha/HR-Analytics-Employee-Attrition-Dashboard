@@ -179,7 +179,7 @@ Provides insights into employee satisfaction, performance ratings, and work-life
 - Executive Reporting
 
 📁 Repository Structure
-HR-Analytics-Employee-Attrition-Dashboard
+```HR-Analytics-Employee-Attrition-Dashboard
 │
 ├── Dataset
 ├── Excel
@@ -187,6 +187,7 @@ HR-Analytics-Employee-Attrition-Dashboard
 ├── PowerBI
 ├── Images
 └── README.md
+```
 
 👩‍💻 Author
 
